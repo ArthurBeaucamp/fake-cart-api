@@ -1,0 +1,40 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "name": "Baeckeoffe",
+      "description": "Lorem Elsass ipsum Hans Salu bissame jetz gehts los ornare Kabinetpapier wie Miss Dahlias ch'ai mänele flammekueche baeckeoffe réchime picon bière consectetur morbi dui Oberschaeffolsheim Gal",
+      "imageUrl": "https://www.macuisinesante.com/wp-content/uploads/2017/11/baeckeoffe.jpg"
+    },
+    {
+      "id": 2,
+      "name": "kuglopf",
+      "description": "Lorem Elsass ipsum condimentum auctor, quam. turpis, porta Coopé de Truchtersheim picon bière Huguette Morbi kuglopf DNA",
+      "imageUrl": "https://i.ytimg.com/vi/lb-bM0SXvG4/mqdefault.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Amer Sommer",
+      "description": "Lorem Elsass ipsum libero, chambon amet, ftomi! nullam Christkindelsmärik ac ornare Huguette hoplageiss kougelhopf tristique non yeuh. hopla vielmols, commodo Amer Sommer Racing",
+      "imageUrl": "https://www.forgeorges.fr/wp-content/uploads/2019/10/IMG_4414-copy-769x1024.jpg"
+    },
+    {
+      "id": 4,
+      "name": "kartoffelsalad",
+      "description": "Lorem Elsass ipsum purus ante schnaps et messti de Bischheim sit quam. sagittis tellus ornare Mauris Chulien rhoncus commodo ullamcorper wie aliquam libero, ac mamsell amet kartoffelsalad hopla",
+      "imageUrl": "https://c8.alamy.com/compfr/b4t33m/germany-bavaria-bayern-legumes-schnitzel-et-salade-de-pomme-de-terre-gemuseschnitzel-und-kartoffel-salade-b4t33m.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Wurschtsalad",
+      "description": "Lorem Elsass ipsum hopla yeuh. leverwurscht Kabinetpapier non purus dui aliquam leo Hans lotto-owe amet sit hop ftomi! tellus Wurschtsalad libero, leo baeckeoffe dolor sed id quam. turpis hoplageiss Yo dû",
+      "imageUrl": "https://img.chefkoch-cdn.de/rezepte/1476371252847899/bilder/1327285/crop-960x720/schweizer-wurstsalat.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Gewurztraminer",
+      "description": "Lorem Elsass ipsum hopla knepfle Chulien bredele libero. und gal lacus ftomi! senectus nullam amet, pellentesque Chulia Roberstau eget gewurztraminer risus, leo rossbolla Yo dû. météor munster hopla",
+      "imageUrl": "https://www.carrefour.fr/media/540x540/Photosite/PGC/BOISSONS/3221249650345_PHOTOSITE_20210629_055413_0.jpg?placeholder=1"
+    }
+  ]
+}
